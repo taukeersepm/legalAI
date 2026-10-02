@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+data/legal_ai.db
+data/pdf_chunks.pkl
+data/pdf_embeddings.npy
+data/pdf_metadata.pkl
+uploads/
+.env
+node_modules/
+frontend/dist/
+frontend/.vite/
+*.log
